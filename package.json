@@ -1,0 +1,24 @@
+{
+  "name": "testang",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dthis is a description to learn\"",
+  "main": "test.php",
+  "scripts": {
+	"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anislar/gitTest.git"
+  },
+  "author": "Anis Larguet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anislar/gitTest/issues"
+  },
+  "homepage": "https://github.com/Anislar/gitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
